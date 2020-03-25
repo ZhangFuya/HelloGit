@@ -1,6 +1,4 @@
 这是branch测试时的数据
 我们将不对branch进行提交
-aaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbb
-ccccccccccccccccccc
-ddddddddddddddddddd
+我们期望产生冲突
+并且产生了冲突
